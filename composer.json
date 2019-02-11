@@ -1,0 +1,7 @@
+{
+    "name": "glamkas/JavaScript-Templates",
+    "description": "Fork blueimp/JavaScript-Templates library",
+    "homepage": "https://blueimp.github.io/JavaScript-Templates/",
+    "license": "(MIT or GPL-1.0)",
+    "require": {}
+}
